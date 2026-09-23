@@ -1,7 +1,0 @@
-git clone https://github.com/ankursarkar24/Dynamic-Volatility-Spillovers-of-World-Volatility-Indices-and-Equity-Indices.git
-cd Dynamic-Volatility-Spillovers-of-World-Volatility-Indices-and-Equity-Indices
-
-git checkout eb2db472b1ff4d14b90b33a36a09bfa461d2bcae
-git rm FOLDER
-git commit -m "Delete FOLDER"
-git push origin HEAD
